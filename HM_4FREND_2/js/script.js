@@ -8,4 +8,5 @@ function equality() {
       break;
     }
   }
+  return console.log(num);
 }
